@@ -20,12 +20,6 @@ M.S. student exploring the gap between code and physical world — ESP32, actuat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
-
-### 📊 Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=comimome&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comimome&layout=compact&hide_border=true)
 
 ---
 
