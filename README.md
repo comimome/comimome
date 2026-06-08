@@ -9,6 +9,8 @@ M.S. student exploring the gap between code and physical world — ESP32, actuat
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [promptvault](https://github.com/comimome/promptvault) | LLM prompt version manager | Rust |
+| [screensort](https://github.com/comimome/screensort) | OCR + LLM でスクリーンショットを自動整理する CLI ツール | Python |
+| [llm-charcounter](https://github.com/comimome/llm-charcounter) | Real-time char/word/token counter for Claude, ChatGPT, Gemini, Perplexity, Copilot | TypeScript |
 
 ---
 
@@ -18,6 +20,7 @@ M.S. student exploring the gap between code and physical world — ESP32, actuat
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 
