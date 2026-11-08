@@ -1,38 +1,26 @@
-### Hi, I'm comimome 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 
-M.S. student exploring the gap between code and physical world — ESP32, actuators, and real hardware.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Monaspace&size=40&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+🖖;+I'm+comimome!;" />
+</h1>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/comimome/comimome/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/comimome/comimome/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/comimome/comimome/output/github-contribution-grid-snake.svg">
+</picture>
 
-### 🚀 Currently building
+## AtCoder:
+[![Rating](https://badgen.org/img/atcoder/comimome/rating/algorithm?style=flat)](https://atcoder.jp/users/comimome?contestType=algo)
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [promptvault](https://github.com/comimome/promptvault) | LLM prompt version manager | Rust |
-| [screensort](https://github.com/comimome/screensort) | OCR + LLM でスクリーンショットを自動整理する CLI ツール | Python |
-| [llm-charcounter](https://github.com/comimome/llm-charcounter) | Real-time char/word/token counter for Claude, ChatGPT, Gemini, Perplexity, Copilot | TypeScript |
+## Skills:
+### Languages
+[![Languages](https://skillicons.dev/icons?i=cpp,py,rust,ts)](https://skillicons.dev)
+### Hardware
+[![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
 
----
-
-### 🔧 Skills
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-
----
-
-### 🏆 Competitive Programming
-
-[![AtCoder](https://cp-logo.vercel.app/atcoder/comimome)](https://atcoder.jp/users/comimome)
-
----
-
-### 📫 Contact
-
+## Contact:
 [![Twitter](https://img.shields.io/badge/@comimome-000000?style=flat-square&logo=x)](https://twitter.com/comimome)
 [![Qiita](https://img.shields.io/badge/Qiita-comimome-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/comimome)
